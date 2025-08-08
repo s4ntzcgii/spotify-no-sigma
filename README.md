@@ -1,20 +1,22 @@
-📱 Spotify UI Clone
-Protótipo de interface inspirado no Spotify, com telas de splash, login e página inicial.
+🎵 Spotify UI Clone
+Um protótipo inspirado no Spotify, recriando as primeiras telas do app só pra mostrar o design e a navegação.
 
-📸 Telas
-Splash – Logotipo do Spotify.
+📸 O que tem no projeto
+Splash Screen – Tela inicial com o logo do Spotify.
+Login – Campos de e-mail e senha, com opção “esqueceu a senha?”.
+Home – Categorias (Tudo, Música, Podcasts), artistas e playlists em destaque.
 
-Login – Campos de e-mail e senha.
+🛠️ Feito com
+Figma pra criar e prototipar
+Cores oficiais do Spotify (preto, verde e branco)
+Layout pensado pro iPhone 16 Pro Max
 
-Home – Categorias e playlists sugeridas.
+🎯 Ideia do projeto
+Treinar criação de interfaces simples e responsivas
+Deixar a cara do Spotify, mas feito do zero
+Servir como base pra um app real no futuro
 
-🛠️ Tecnologias
-Figma / UI Design
-
-Paleta oficial do Spotify (preto, verde, branco)
-
-🚀 Próximos Passos
-Implementar em código (React Native, Flutter, etc.)
-
-Conectar à API do Spotify
-
+🚀 Próximos passos
+Transformar o design em código (React Native, Flutter ou SwiftUI)
+Conectar na API do Spotify pra ter dados reais
+Adicionar animações pra deixar mais fluido
